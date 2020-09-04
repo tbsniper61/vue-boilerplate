@@ -60,7 +60,7 @@
     "imagemin-lint-staged": "0.3.x",
     "lint-staged": "7.2.x",
     "markdownlint-cli": "0.10.x",
-    "node-sass": "4.9.x",
+    "node-sass": "4.13.x",
     "sass-loader": "7.0.x",
     "stylelint": "9.2.x",
     "stylelint-config-css-modules": "1.2.x",
